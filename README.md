@@ -11,6 +11,4 @@ This project is a simple C++ game where you pop bubbles and avoid obstacles.
 
 - vinaybembalge
 
-## License
 
-MIT
